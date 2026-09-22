@@ -2,7 +2,7 @@
 Contributors: bandido, dpmine
 Tags: nova post
 Requires at least: 5.4
-Tested up to: 6.9
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 0.4.1
 License: GPLv2

@@ -8,7 +8,7 @@
 			<img src="<?php echo MRKV_NOVA_PLUGIN_URL . '/assets/img/delivery-icon.svg'; ?>" alt="MRKV Nova Post" title="MRKV Nova Post">
 		</a>
 		<a class="active" href="<?php echo esc_html('/wp-admin/admin.php?page=mrkv_nova_settings'); ?>"><?php echo __('Global', 'mrkv-nova-post'); ?></a>
-		<a class="admin_mrkv_ua_shipping_morkva-logo" href="https://morkva.co.ua/" target="blanc">
+		<a class="admin_mrkv_ua_shipping_morkva-logo" href="https://morkva.co.ua/" target="_blank">
 			<img src="<?php echo MRKV_NOVA_PLUGIN_URL . '/assets/img/morkva-logo.svg'; ?>" alt="Morkva" title="Morkva">
 		</a>
 	</div>
